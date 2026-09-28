@@ -1,0 +1,14 @@
+AI Agents 学习合集 (AI Agents Collection)
+仅个人学习与技术交流使用（开源）
+
+本合集基于以下开源项目二次开发，遵循其原始开源协议：
+
+1. awesome-llm-apps
+   https://github.com/Shubhamsaboo/awesome-llm-apps
+   License: Apache License 2.0
+
+2. ai-dashboard-canvas-agent（chart-chat-studio 底层组件）
+   https://github.com/ataibarkai/ai-agents
+   License: MIT License, Copyright (c) Atai Barkai
+
+原始项目的署名、协议与版权声明均予以保留。
